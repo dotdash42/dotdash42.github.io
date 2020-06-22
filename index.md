@@ -2,127 +2,55 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Knights
 
-[Link to another page](./another-page.html).
+The first knights of the Middle Ages fought for Charlemagne, the King of the Franks, in the 700s. In order to fight battles across his large empire, Charlemagne began to use soldiers on horseback. These soldiers became a very important part of his army.
 
-There should be whitespace between paragraphs.
+## Charlemagne
+Charlemagne began to award his best knights with land called "benefices". In return for the land, the knights agreed to fight for the king whenever he called. This practice caught on through much of Europe and became standard practice for many kings for the next 700 years. If you were a son born into the family of a knight, you generally became a knight as well.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Orders of Knights
+Some knights decided to pledge themselves to defending the Christian faith. They formed orders that fought in the Crusades. These orders were called military orders. Here are three of the most famous military orders: 
 
-[See my toys](./toys.html).
+## The Knights Templar
 
-You might want to read up on [rocket science](https://youtu.be/dQw4w9WgXcQ).
+ The Knights Templar were established in the 1100s. They wore white mantles with red crosses and were famous fighters during the Crusades. Their headquarters was in the Al-Aqsa Mosque on the Temple Mount in Jerusalem. The knights refused to retreat in battle and were often the first to lead the charge. In the Battle of Montgisard, 500 Knights of the Templar led a small force of just a few thousand men in victory over 26,000 Muslim soldiers.
 
+## The Knights Hospitaller
 
-# Header 1
+The Knights Hospitaller were founded in 1023. They were formed to protect poor and sick pilgrims in the Holy Land. During the Crusades they defended the Holy Land from the Muslims. These knights wore black clothing with a white cross. After the fall of Jerusalem they moved to the island of Rhodes and to Malta.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## The Teutonic Knights
 
-## Header 2
+  The Teutonic Knights were German knights that were once part of the Hospitallers. They wore black clothing with a white cross on the shoulder. After fighting in the Crusades, the Teutonic Knights began a conquest of Prussia. They became very powerful until they were defeated in 1410 by the Polish at the Battle of Tannenberg.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### End of the Knight
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+By the end of the Middle Ages, the knight was no longer an important part of the army. This was for two main reasons. One reason was that many countries had formed their own standing armies. They paid soldiers to train and fight. They no longer needed lords to come fight as knights. The other reason was a change in warfare. Battle tactics and new weapons such as longbows and firearms made the heavy armor the knights wore cumbersome and useless. This made it much easier to arm a soldier and pay for a standing army. 
 * * *
 
-### Here is an unordered list:
+### Useful Items For Knights
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+-   item 1: Shield
+-   item 2: Sword
+-   item 3: Armor
 
-### And an ordered list:
+### This is a cool knight for a game!
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![This is a cool knight for a game!](https://www.pngkit.com/png/detail/62-625646_knight-transparent-cartoon.png)
 
 
-### Definition lists can be used with HTML syntax.
+- **Name:** Undead Knight
+- **Weapon:**  Rusted sword
+- **Hit points:** 2
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Even this!
 
-```
-The final element.
-```
+![Branching](https://banner2.cleanpng.com/20180417/coe/kisspng-shovel-knight-cartoon-enchantress-5ad6573c2a8e65.8173584915239964761743.jpg)
+
+- **Name:** King Knight
+- **Weapon:**  Scepter
+- **Hit points:** 10
+
+You might want to watch this video on [The Knights of Merlot](https://youtu.be/dQw4w9WgXcQ).

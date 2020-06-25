@@ -11,4 +11,7 @@ Learn about -
     - [Knights](knights.html)
 - Computer Science
     - [Computers](computer.html)
-    - 
+    - [Software](software.html)
+- Animals
+    - [Insects](insects.html)
+    - [Mammals](mammals.html)
